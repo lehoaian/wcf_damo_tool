@@ -20,6 +20,7 @@ namespace wcf_damo_tools
             if (composite.BoolValue)
             {
                 composite.StringValue += "Suffix";
+                Console.WriteLine("Just a test");
             }
             return composite;
         }
