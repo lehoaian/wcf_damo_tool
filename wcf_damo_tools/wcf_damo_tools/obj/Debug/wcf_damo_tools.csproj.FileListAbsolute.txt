@@ -1,0 +1,5 @@
+E:\Apps\Git Repositories\wcf_damo_tool\wcf_damo_tools\wcf_damo_tools\bin\wcf_damo_tools.dll
+E:\Apps\Git Repositories\wcf_damo_tool\wcf_damo_tools\wcf_damo_tools\bin\wcf_damo_tools.pdb
+E:\Apps\Git Repositories\wcf_damo_tool\wcf_damo_tools\wcf_damo_tools\obj\Debug\ResolveAssemblyReference.cache
+E:\Apps\Git Repositories\wcf_damo_tool\wcf_damo_tools\wcf_damo_tools\obj\Debug\wcf_damo_tools.dll
+E:\Apps\Git Repositories\wcf_damo_tool\wcf_damo_tools\wcf_damo_tools\obj\Debug\wcf_damo_tools.pdb
