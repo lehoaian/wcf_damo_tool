@@ -21,6 +21,7 @@ namespace wcf_damo_tools
             {
                 composite.StringValue += "Suffix";
                 Console.WriteLine("Just a test");
+                Console.WriteLine("Another Test");
             }
             return composite;
         }
